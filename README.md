@@ -132,21 +132,21 @@ Type coercion is the changing of an object’s type into another type, together 
 
 ### Explain data types.
 
-- Number: Generally a number is defined as a series of digits, using a dot as a decimal mark. Optionally the user can use the underscore as a separator. There are different kinds of numbers like integers and float. Ruby can handle both Integers and floating point numbers. According to their size, there are two types of integers, one is Bignum and second is Fixnum.
+- Number: Generally a number is defined as a series of digits, using a dot as a decimal mark. Optionally the user can use     the underscore as a separator. There are different kinds of numbers like integers and float. Ruby can handle both Integers   and floating point numbers. According to their size, there are two types of integers, one is Bignum and second is Fixnum.
 
-Num1 = 10 # This is an integer
-Num2 = 4.5 # This is a floating point
+  Num1 = 10 # This is an integer
+  Num2 = 4.5 # This is a floating point
 
 - Boolean: Boolean data type represents only one bit of information either true or false.
 
-myBoolean = true
-myOtherBoolean = false
+  myBoolean = true
+  myOtherBoolean = false
 
-- String: string is a group of letters that represent a sentence or a word. Strings are defined by enclosing a text within a single (”) or double (“”) quotes, can use both double quotes and single quotes to create strings.
+- String: string is a group of letters that represent a sentence or a word. Strings are defined by enclosing a text within a   single (”) or double (“”) quotes, can use both double quotes and single quotes to create strings.
 
-string_1 = "This is my string!"
-string_2 = " " # This is also a string
-string_3 = "10" # This is also a string
+  string_1 = "This is my string!"
+  string_2 = " " # This is also a string
+  string_3 = "10" # This is also a string
 
 # question 11
 
