@@ -145,8 +145,10 @@ Type coercion is the changing of an object’s type into another type, together 
 
 - String: string is a group of letters that represent a sentence or a word. Strings are defined by enclosing a text within a   single (”) or double (“”) quotes, can use both double quotes and single quotes to create strings.
 
-  string_1 = "This is my string!"
+  string_1 = "This is my string!" # This is string
+  
   string_2 = " " # This is also a string
+  
   string_3 = "10" # This is also a string
 
 # question 11
