@@ -222,7 +222,7 @@ Start loop for numbers between 1 - 100 (can exclude 1 as it is not a prime numbe
 
 You have access to two variables: raining (boolean) and temperature (integer). If it’s raining and the temperature is less than 15 degrees, print to the screen “It’s wet and cold”, if it is less than 15 but not raining print “It’s not raining but cold”. If it’s greater than or equal to 15 but not raining print “It’s warm but not raining”, and otherwise tell them “It’s warm and raining”.
 
-![code1](raning.png)
+![code1](img/raining.png)
 
 # Question 16
 
