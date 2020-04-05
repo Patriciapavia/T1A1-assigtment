@@ -242,4 +242,4 @@ Write a program that, given a person’s score can tell them:
 a) whether or not they’re allergic to a given item
 b) the full list of allergies.
 
-![code1](img/allery.png)
+![code1](img/allergy.png)
