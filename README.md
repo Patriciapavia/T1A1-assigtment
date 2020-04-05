@@ -196,7 +196,7 @@ The error in this code snippet lies in the line celsius = gets. Gets, by default
 
 - Flowchart
 
-![code1](img/t1a1.pdf)
+![code1](img/diagram.png)
 
 - Pseudocode
 
