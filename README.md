@@ -154,29 +154,29 @@ Type coercion is the changing of an object’s type into another type, together 
 # question 11
 
 Here’s the problem: “There is a restaurant serving a variety of food. The customers want to be able to buy food of their choice. All the staff just quit, how can you build an app to replace them?”
-
-Identify the classes you would use to solve the problem
-Write a short explanation of why you would use the classes you have identified
-
+ * Identify the classes you would use to solve the problem
+ * Write a short explanation of why you would use the classes you have identified
 Classes:
-
-Since staff has quit i would need some class to replace a staff, assume to run a restaurant i would need a team which include: manager, chef, dishwasher, wait-staff.
-
-- First class that i would build is employee super class, which have attributes of name, a weekly hour shift.
-- Then i would define another suclass to define other role that need to be done in the restaurant which will be:
-  Manager who are able to keep track of what happening in the cafe such as stocking supply, payroll.
-  Chef who looking afrer a kitchen section, duty include cooking and report any issue to manager if there is any.
-  Dishwashers, to retrieve and wash dirty dishes.
-  Wait staff is to greeting customer, seat them and taking thier order.
+    Since staff has quit i would need some class to replace a staff, assume to run a restaurant i would need a team which       include: manager, chef, dishwasher, wait-staff.
+     - First class that i would build is employee super class, which have attributes of name, a weekly hour shift.
+     - Then i would define another suclass to define other role that need to be done in the restaurant which will be:
+      Manager who are able to keep track of what happening in the cafe such as stocking supply, payroll.
+      Chef who looking afrer a kitchen section, duty include cooking and report any issue to manager if there is any.
+      Dishwashers, to retrieve and wash dirty dishes.
+      Wait staff is to greeting customer, seat them and taking thier order.
 
 # Question 12
 
 ### Identify and explain the error in the code snippet below that is preventing correct execution of the program
 
 celsius = gets
+
 fahrenheit = (celsius \* 9 / 5) + 32
+
 print "The result is: "
+
 print fahrenheit
+
 puts "."
 
 The error in this code snippet lies in the line celsius = gets. Gets, by default, will interpret the user input as a string data type, and will assign it to the 'celsius' as string to solve this proble have to add gets.chomp then convert celsius to interger by adding to_f or to to_i to the end of celsius.
