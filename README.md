@@ -120,7 +120,7 @@ The drawback: 1. It is fairly new and has its own unique coding language which m
 
 If statement: the if keyword is used to check if an expression is true. If it is true, a statement is then executed. The statement can be a single statement or a compound statement. A compound statement consists of multiple statements enclosed by the block. A block is code enclosed by the end keyword.
 
-![code1](img/test.png)
+![code1](img/code.png)
 
 # Question 9
 
