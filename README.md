@@ -135,6 +135,7 @@ Type coercion is the changing of an object’s type into another type, together 
 - Number: Generally a number is defined as a series of digits, using a dot as a decimal mark. Optionally the user can use     the underscore as a separator. There are different kinds of numbers like integers and float. Ruby can handle both Integers   and floating point numbers. According to their size, there are two types of integers, one is Bignum and second is Fixnum.
 
   Num1 = 10 # This is an integer
+  
   Num2 = 4.5 # This is a floating point
 
 - Boolean: Boolean data type represents only one bit of information either true or false.
